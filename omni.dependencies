@@ -1,0 +1,8 @@
+[
+	{
+		"remote":"github",
+		"repository":"tnakamur/android_kernel_samsung_sc02l",
+		"target_path":"kernel/samsung/sc02l",
+		"revision":"android-8.1"
+	}
+]
